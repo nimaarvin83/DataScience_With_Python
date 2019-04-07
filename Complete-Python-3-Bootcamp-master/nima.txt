@@ -1,0 +1,3 @@
+My name is Nima
+This is the first text file
+I am learning Python
